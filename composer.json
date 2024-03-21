@@ -1,0 +1,19 @@
+{
+    "name": "webandrade/tradeup-vue-php",
+    "description": "Teste técnico com requisição assíncrona",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tradeup\\": "api/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Andrade",
+            "email": "rafael.io@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
